@@ -1,5 +1,4 @@
-# Hi 👋 I.m Jaewon Ko.</br>
-# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flets-gojae&count_bg=%2346523E&title_bg=%232E8678&icon=react.svg&icon_color=%2361FDB9&title=Lets_Gojae&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hi 👋 I.m Jaewon Ko.</br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flets-gojae&count_bg=%2346523E&title_bg=%232E8678&icon=react.svg&icon_color=%2361FDB9&title=Lets_Gojae&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 </br>
