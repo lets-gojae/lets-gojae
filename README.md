@@ -1,7 +1,7 @@
-### <div align=center> Hi 👋 I.m Jaewon Ko.</div>
+## <div align=center> Hi 👋 I.m Jaewon Ko.</div>
 ___
 
-- 🌱 I’m currently **learning React.js**
+<div align=center>- 🌱 I’m currently **learning React.js**</div>
 - 📫 How to reach me **sis9410@gmail.com**
 
 Here are some ideas to get you started:
