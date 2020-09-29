@@ -1,8 +1,8 @@
-# <div align=center> Hi 👋 I.m Jaewon Ko.</div>
+# Hi 👋 I.m Jaewon Ko.
 
 
 </br>
-<div align=center> 🥩 + 🍺 = ❤️ </div>
-<div align=center>  🌱 I’m currently learning React.js </div>
-<div align=center>  📫 How to reach me sis9410@gmail.com </div>
+🥩 + 🍺 = ❤️ 
+🌱 I’m currently learning React.js 
+📫 How to reach me sis9410@gmail.com 
 
