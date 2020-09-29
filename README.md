@@ -1,5 +1,5 @@
-<div align=center font-weight:bold> Hi 👋 I.m Jaewon Ko.</div>
-<div align=center> 🥩 + 🍺 = ❤️ </div>
+## <div align=center> Hi 👋 I.m Jaewon Ko.</div>
+## <div align=center> 🥩 + 🍺 = ❤️ </div>  
 
 ___
 
