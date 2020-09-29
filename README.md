@@ -14,3 +14,5 @@
 <img src="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" width="30px" height="30px">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lets-gojae)](https://github.com/anuraghazra/github-readme-stats)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lets-gojae)](https://solved.ac/lets-gojae)
