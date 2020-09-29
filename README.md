@@ -2,7 +2,7 @@
 
 
 </br>
-🥩 + 🍺 = ❤️ 
-🌱 I’m currently learning React.js 
-📫 How to reach me sis9410@gmail.com 
+🥩 + 🍺 = ❤️ </br>
+🌱 I’m currently learning React.js </br>
+📫 How to reach me sis9410@gmail.com </br>
 
