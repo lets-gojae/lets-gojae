@@ -1,4 +1,4 @@
-<center> Hi 👋 I.m Jaewon Ko.</center>
+<div align=center font-weight=bold> Hi 👋 I.m Jaewon Ko.</div>
 <div align=center> 🥩 + 🍺 = ❤️ </div>
 
 ___
