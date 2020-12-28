@@ -2,8 +2,7 @@
 
 
 </br>
-- 🥩 + 🍺 = ❤️ </br>
-- 🌱 I’m currently learning React.js </br>
+- 🌱 I’m currently learning React.js / ReactNative </br>
 - 📫 How to reach me sis9410@gmail.com </br>
 
 ## Skill / Tools
